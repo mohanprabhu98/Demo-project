@@ -1,5 +1,5 @@
 Demo project
 
-#event calender website
+#event website
 
 project build with html css
